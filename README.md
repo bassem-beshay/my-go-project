@@ -30,7 +30,7 @@ This project is a Go-based backend for an e-commerce platform. It provides RESTf
 
 - **Get Product Sales**  
   `GET /products/admin/{username}`  
-  Get product sales for a specific user (can optionally filter by date range).
+
 
 ### User Endpoints
 - **Get All Users**  
